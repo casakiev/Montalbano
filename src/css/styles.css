@@ -20,7 +20,7 @@ body {
 .cover-container {
     max-width: 42em;
 }
-h1,h2 {
+h1,h2,p {
     font-family: 'Changa', sans-serif;
 }
 .icons-social {
@@ -30,4 +30,8 @@ svg {
     fill: white;
     max-height: 48px;
     height: 48px;
+}
+
+.montalbanito {
+    margin-left: 6rem;
 }
